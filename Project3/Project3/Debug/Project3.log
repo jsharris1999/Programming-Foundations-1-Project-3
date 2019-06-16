@@ -1,0 +1,8 @@
+﻿  Project3.cpp
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project3\project3\project3.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project3\project3\project3.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project3\project3\project3.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project3\project3\project3.cpp(222): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project3\project3\project3.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\jared\desktop\school work\2018-2019 school work\programming foundations i\project3\project3\project3.cpp(297): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\jared\Desktop\School Work\2018-2019 School Work\Programming Foundations I\Project3\Debug\Project3.exe
